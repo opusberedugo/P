@@ -1,0 +1,204 @@
+Uri: https://beaglefashion.netlify.app/
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://beaglefashion.netlify.app/css/main.css
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\main.css
+Content Type: text/css
+
+Uri: https://beaglefashion.netlify.app/css/responsive.css
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\responsive.css
+Content Type: text/css
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/css/all.min.css
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\css\all.min.css
+Content Type: text/css
+
+Uri: https://beaglefashion.netlify.app/images/b1.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\b1.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/2.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\2.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/t-shirts/3.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\t-shirts\3.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/t-shirts/5.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\t-shirts\5.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/t-shirts/6.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\t-shirts\6.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/skirts/8.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\skirts\8.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/skirts/9.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\skirts\9.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/skirts/10.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\skirts\10.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/watches/11.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\watches\11.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/watches/12.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\watches\12.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/watches/13.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\watches\13.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/sandals/14.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\sandals\14.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/sandals/15.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\sandals\15.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/sandals/16.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\sandals\16.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/jewellry/17.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\jewellry\17.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/jewellry/18.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\jewellry\18.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/jewellry/19.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\jewellry\19.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/37.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\37.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/j3.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\j3.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/j6.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\j6.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/j7.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\j7.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/new products/27.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\new products\27.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/new products/30.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\new products\30.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/new products/32.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\new products\32.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/images/new products/36.jpg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\images\new products\36.jpg
+Content Type: image/jpeg
+
+Uri: https://beaglefashion.netlify.app/scripts/jquery-3.5.1.js
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\scripts\jquery-3.5.1.js
+Content Type: application/javascript
+
+Uri: https://beaglefashion.netlify.app/scripts/main.js
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\scripts\main.js
+Content Type: application/javascript
+
+Uri: https://beaglefashion.netlify.app/fonts/Glegoo/Glegoo-Regular.ttf
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\fonts\Glegoo\Glegoo-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://beaglefashion.netlify.app/fonts/Glegoo/Glegoo-Bold.ttf
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\fonts\Glegoo\Glegoo-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://beaglefashion.netlify.app/css/fontawesome-free-5.13.0-web/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\beaglefashion.netlify.app\css\fontawesome-free-5.13.0-web\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+

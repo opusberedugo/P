@@ -1,0 +1,271 @@
+@font-face {
+  src: url(../fonts/Glegoo/Glegoo-Regular.ttf), url(../fonts/Glegoo/Glegoo-Bold.ttf);
+  font-family: Glegoo;
+}
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  outline: none;
+}
+
+header {
+  padding: 20px;
+}
+header div a {
+  text-decoration: none;
+  color: black;
+}
+header div a p {
+  font-family: Glegoo;
+  text-align: center;
+}
+header div a p.brand-name {
+  font-size: 300%;
+}
+header div a p.sub-title {
+  font-size: 150%;
+  margin-bottom: 20px;
+}
+header nav {
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+header nav a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+main div.img-box img {
+  width: 100%;
+  max-width: 100%;
+}
+main p#popular-categories {
+  font-family: Glegoo;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 150%;
+}
+main section.popular-categories {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  align-items: center;
+  grid-gap: 20px;
+  padding: 20px;
+}
+main section.popular-categories aside.aside-image img {
+  width: 100%;
+  max-width: 100%;
+  height: 500px;
+}
+main section.popular-categories div.cell div.product-tabs {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+main section.popular-categories div.cell div.product-tabs div.tab {
+  text-align: center;
+  text-transform: uppercase;
+  background-color: white;
+}
+main section.popular-categories div.cell div.product-tabs div.tab.active {
+  background-color: #239400;
+  color: white;
+  padding: 10px;
+}
+main section.popular-categories div.cell div.columns {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
+}
+main section.popular-categories div.cell div.columns div.product img {
+  width: 100%;
+}
+main section.popular-categories div.cell div.columns div.product div.product-details span.product-name {
+  display: block;
+  text-align: center;
+  margin: 10px 0;
+  color: #239400;
+}
+main section.popular-categories div.cell div.columns div.product div.price-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 20px 0;
+}
+main section.popular-categories div.cell div.columns div.product div.price-row span.old-price {
+  margin-left: auto;
+}
+main section.popular-categories div.cell div.columns div.product div.price-row span.price {
+  margin-right: auto;
+  margin-left: 20px;
+}
+main section.popular-categories div.cell div.columns div.product button {
+  padding: 20px;
+  border: none;
+  background-color: #239400;
+  color: white;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+main section.popular-categories div.cell div.columns div.product button:hover {
+  background-color: #8a0808;
+}
+main section.popular-products p.special-heading, main section.latest-products p.special-heading {
+  font-family: Glegoo;
+  text-align: center;
+  margin: 20px 0;
+  font-size: 150%;
+}
+main section.popular-products div.new-products, main section.latest-products div.new-products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+  padding: 20px;
+}
+main section.popular-products div.new-products div.product img, main section.latest-products div.new-products div.product img {
+  width: 100%;
+}
+main section.popular-products div.new-products div.product div.product-details span.product-name, main section.latest-products div.new-products div.product div.product-details span.product-name {
+  display: block;
+  text-align: center;
+  margin: 10px 0;
+  color: #239400;
+}
+main section.popular-products div.new-products div.product div.price-row, main section.latest-products div.new-products div.product div.price-row {
+  display: flex;
+  margin: 20px 0;
+}
+main section.popular-products div.new-products div.product div.price-row span.old-price, main section.latest-products div.new-products div.product div.price-row span.old-price {
+  margin-left: auto;
+}
+main section.popular-products div.new-products div.product div.price-row span.price, main section.latest-products div.new-products div.product div.price-row span.price {
+  margin-right: auto;
+  margin-left: 20px;
+}
+main section.popular-products div.new-products div.product button, main section.latest-products div.new-products div.product button {
+  padding: 20px;
+  border: none;
+  background-color: #239400;
+  color: white;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+main section.popular-products div.new-products div.product button:hover, main section.latest-products div.new-products div.product button:hover {
+  background-color: #176400;
+}
+
+footer form {
+  background-color: #f7f7f7;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 4fr 1fr;
+  grid-template-columns: 1fr 4fr 1fr;
+  padding: 20px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+footer form p.special-heading {
+  text-align: center;
+}
+footer form input, footer form button {
+  height: 50px;
+  border: none;
+}
+footer form input {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 10px;
+}
+footer form button {
+  background-color: #239400;
+  color: white;
+}
+footer div.row {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 20px;
+}
+footer div.row div a {
+  display: block;
+  text-decoration: none;
+  color: #adadad;
+  margin: 10px 0;
+}
+footer div.row div a:hover {
+  color: black;
+}
+footer div.row div i {
+  border-style: solid;
+  color: black;
+  padding: 10px;
+  border-width: 1px;
+}
+footer div.row div p.special-heading {
+  font-family: Glegoo;
+}
+footer small {
+  display: block;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 50px;
+  -webkit-box-shadow: 0 0 5px lightgray;
+  box-shadow: 0 0 5px lightgray;
+}
+
+main.categories h2 {
+  font-family: "Glegoo";
+  text-align: center;
+  padding: 20px 0;
+  font-size: 38px;
+}
+main.categories ul.categories {
+  padding: 0 5%;
+  list-style-type: none;
+}
+main.categories ul.categories li {
+  border: 3px #239400 solid;
+  padding: 20px;
+  margin: 10px 0;
+}
+main.categories ul.categories li a {
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+main.categories ul.categories li:hover {
+  transform: scale(1.01);
+}
+
+main.about {
+  margin-bottom: 30px;
+}
+main.about h2 {
+  font-family: "Glegoo";
+  text-align: center;
+  padding: 20px 0;
+  font-size: 38px;
+}
+main.about p {
+  padding: 20px 5%;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,61 @@
+@media only screen and (max-width: 850px) {
+  main section.popular-categories {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  main section.popular-categories aside.aside-image {
+    display: none;
+  }
+  main section.popular-products div.new-products, main section.latest-products div.new-products {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
+  footer div.row {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width: 838px) {
+  header nav a:nth-of-type(2), header nav a:nth-of-type(3) {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  footer form {
+    -ms-grid-columns: 4fr 1fr;
+        grid-template-columns: 4fr 1fr;
+  }
+  footer form p {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  main section.popular-categories div.cell div.columns {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  main section.popular-products div.new-products, main section.latest-products div.new-products {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  main section.popular-categories {
+    padding: 0;
+  }
+  main section.popular-categories div.cell div.product-tabs div.tab {
+    font-size: 80%;
+    padding: 5px;
+  }
+}
+
+@media only screen and (max-width: 389px) {
+  header nav a:nth-of-type(5) {
+    font-size: 90%;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
